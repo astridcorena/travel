@@ -22,7 +22,7 @@ const Navbar = () => {
       <header className="header flex">
 
         <div className="logoDiv">
-          <a href="#" className="logo flex">
+          <a href="https://www.pricetravel.com/en" className="logo flex">
             <h1><MdOutlineTravelExplore className='icon'/>Travel.</h1>
           </a>
         </div>
