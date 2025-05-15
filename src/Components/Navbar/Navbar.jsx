@@ -31,35 +31,35 @@ const Navbar = () => {
           <ul className="navLists flex">
 
             <li className="navItem">
-              <a  className="navLink">Home</a>
+              <a href="https://www.pricetravel.com/en" className="navLink">Home</a>
             </li>
 
             <li className="navItem">
-              <a  className="navLink">Packages</a>
+              <a href="https://www.pricetravel.com/en" className="navLink">Packages</a>
             </li>
 
             <li className="navItem">
-              <a  className="navLink">Shop</a>
+              <a href="https://www.pricetravel.com/en" className="navLink">Shop</a>
             </li>
 
             <li className="navItem">
-              <a  className="navLink">About</a>
+              <a href="https://www.pricetravel.com/en" className="navLink">About</a>
             </li>
 
             <li className="navItem">
-              <a  className="navLink">Pages</a>
+              <a href="https://www.pricetravel.com/en" className="navLink">Pages</a>
             </li>
 
             <li className="navItem">
-              <a  className="navLink">News</a>
+              <a href="https://www.pricetravel.com/en" className="navLink">News</a>
             </li>
 
             <li className="navItem">
-              <a  className="navLink">Contact</a>
+              <a href="https://www.pricetravel.com/en" className="navLink">Contact</a>
             </li>
 
             <button className='btn'>
-              <a>BOOK NOW</a>
+              <a href="https://www.pricetravel.com/en">BOOK NOW</a>
             </button>
 
           </ul>

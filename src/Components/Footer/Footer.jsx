@@ -42,7 +42,7 @@ useEffect(() => {
         <div className="footerCard flex">
           <div className="footerIntro flex">
             <div className="logoDiv">
-              <a  className='logo flex'>
+              <a href="https://www.pricetravel.com/en" className='logo flex'>
                 <MdOutlineTravelExplore className="icon"/>Travel.
               </a>
             </div>
