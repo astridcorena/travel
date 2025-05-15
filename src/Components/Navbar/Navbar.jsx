@@ -31,35 +31,35 @@ const Navbar = () => {
           <ul className="navLists flex">
 
             <li className="navItem">
-              <a href="#" className="navLink">Home</a>
+              <a  className="navLink">Home</a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">Packages</a>
+              <a  className="navLink">Packages</a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">Shop</a>
+              <a  className="navLink">Shop</a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">About</a>
+              <a  className="navLink">About</a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">Pages</a>
+              <a  className="navLink">Pages</a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">News</a>
+              <a  className="navLink">News</a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">Contact</a>
+              <a  className="navLink">Contact</a>
             </li>
 
             <button className='btn'>
-              <a href="#">BOOK NOW</a>
+              <a>BOOK NOW</a>
             </button>
 
           </ul>
